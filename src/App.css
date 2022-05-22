@@ -1,4 +1,29 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+.netflix-container {
+  font-family: "Poppins", sans-serif;
+  background-color: #141414;
+}
+
+.navbar {
+  font-size: 0.85rem;
+}
+
+#responsive-navbar-nav > div.dropdown > button {
+  background-color: transparent !important;
+  border: none !important;
+}
+.navbar-nav .nav-item.active .nav-link {
+  font-weight: 700;
+}
+
+.navbar-nav {
+  font-weight: 600;
+}
+.navbar-brand img {
+  margin-left: -11px;
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +60,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
