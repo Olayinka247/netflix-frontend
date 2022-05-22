@@ -23,7 +23,7 @@
 .navbar-brand img {
   margin-left: -11px;
 }
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -60,4 +60,4 @@
   to {
     transform: rotate(360deg);
   }
-} */
+}
